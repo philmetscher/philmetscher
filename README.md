@@ -1,5 +1,5 @@
-[<h1><img src="https://readme-typing-svg.herokuapp.com?font=Arial&size=40&duration=3000&pause=1000&color=000000&width=435&height=80&lines=Hey,+I'm+Phil+Metscher+👋;Frontend+Developer" alt="Typing SVG" /></h1>](https://git.io/typing-svg#gh-light-mode-only)
-[<h1><img src="https://readme-typing-svg.herokuapp.com?font=Arial&size=40&duration=3000&pause=1000&color=FFFFFF&width=435&height=80&lines=Hey,+I'm+Phil+Metscher+👋;Frontend+Developer" alt="Typing SVG" /></h1>](https://git.io/typing-svg#gh-dark-mode-only)
+[<h1><img src="https://readme-typing-svg.herokuapp.com?font=Arial&size=40&duration=3000&pause=1000&color=000000&width=500&height=80&lines=Hey,+I'm+Phil+Metscher+👋;Frontend+Developer+🤓" alt="Typing SVG" /></h1>](https://git.io/typing-svg#gh-light-mode-only)
+[<h1><img src="https://readme-typing-svg.herokuapp.com?font=Arial&size=40&duration=3000&pause=1000&color=FFFFFF&width=500&height=80&lines=Hey,+I'm+Phil+Metscher+👋;Frontend+Developer+🤓" alt="Typing SVG" /></h1>](https://git.io/typing-svg#gh-dark-mode-only)
 
 my name is Phil Metscher and I'm from Hollern Twielenfleth, Germany :de:.
 I worked **from 2018 to 2022 at Rhinos Media**. After that I was looking for something new and I'm currently doing the **Web Development Bootcamp at neuefische**. I am excited about what I will learn and hope that I can gain some experience.
