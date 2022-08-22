@@ -1,6 +1,5 @@
-<h1>
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Phil+Metscher;Frontend+Developer&font=&width=380&height=50&duration=4000&pause=1000">
-</h1>
+[<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Arial&size=40&duration=3000&pause=1000&color=000000&width=435&height=80&lines=Phil+Metscher;Frontend+Developer" alt="Typing SVG" /></a>](https://git.io/typing-svg#gh-light-mode-only)
+[<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Arial&size=40&duration=3000&pause=1000&color=FFFFFF&width=435&height=80&lines=Phil+Metscher;Frontend+Developer" alt="Typing SVG" /></a>](https://git.io/typing-svg#gh-dark-mode-only)
 
 my name is Phil Metscher and I'm from Hollern Twielenfleth, Germany :de:.
 I worked **from 2018 to 2022 at Rhinos Media**. After that I was looking for something new and I'm currently doing the **Web Development Bootcamp at neuefische**. I am excited about what I will learn and hope that I can gain some experience.
