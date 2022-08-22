@@ -11,6 +11,8 @@ I worked **from 2018 to 2022 at Rhinos Media**. After that I was looking for som
 &nbsp;&nbsp;
 [![website](./img/xing_light.svg)](https://www.xing.com/profile/Phil_Metscher/#gh-light-mode-only)
 [![website](./img/xing_dark.svg)](https://www.xing.com/profile/Phil_Metscher/#gh-dark-mode-only)
+&nbsp;&nbsp;
+![](https://visitor-badge.glitch.me/badge?page_id=abhisheknaiidu.abhisheknaiidu)
 
 ### Languages and Tools:
 [<img align="left" alt="HTML5" width="24px" height="24px" src="./img/html5.svg" style="padding-right:10px;" />](https://github.com/philmetscher/)
