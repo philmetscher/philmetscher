@@ -1,4 +1,4 @@
-# Hi there 👋 
+#[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Phil+Metscher+;Frontend+Developer)](https://git.io/typing-svg)
 my name is Phil Metscher and I'm from Hollern Twielenfleth, Germany :de:.
 I worked **from 2018 to 2022 at Rhinos Media**. After that I was looking for something new and I'm currently doing the **Web Development Bootcamp at neuefische**. I am excited about what I will learn and hope that I can gain some experience.
 
