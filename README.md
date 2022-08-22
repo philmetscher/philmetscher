@@ -13,13 +13,13 @@ I worked **from 2018 to 2022 at Rhinos Media**. After that I was looking for som
 [![website](./img/xing_dark.svg)](https://www.xing.com/profile/Phil_Metscher/#gh-dark-mode-only)
 
 ### Languages and Tools:
-[<img align="left" alt="HTML5" width="24px" height="24px" src="./img/html5.svg" style="padding-right:10px;" />]
-[<img align="left" alt="CSS3" width="24px" height="24px" src="./img/css3.svg" style="padding-right:10px;" />]
-[<img align="left" alt="JavaScript" width="24px" height="24px" src="./img/javascript.svg" style="padding-right:10px;" />]
-[<img align="left" alt="Less" width="24px" height="24px" src="./img/less.svg" style="padding-right:10px;" />]
-[<img align="left" alt="Sass" width="24px" height="24px" src="./img/sass.svg" style="padding-right:10px;" />]
-[<img align="left" alt="Figma" width="24px" height="24px" src="./img/figma.svg" style="padding-right:10px;" />]
-[<img align="left" alt="Gitlab" width="24px" height="24px" src="./img/gitlab.svg" style="padding-right:10px;" />]
+[<img align="left" alt="HTML5" width="24px" height="24px" src="./img/html5.svg" style="padding-right:10px;" />](https://github.com/philmetscher/)
+[<img align="left" alt="CSS3" width="24px" height="24px" src="./img/css3.svg" style="padding-right:10px;" />](https://github.com/philmetscher/)
+[<img align="left" alt="JavaScript" width="24px" height="24px" src="./img/javascript.svg" style="padding-right:10px;" />](https://github.com/philmetscher/)
+[<img align="left" alt="Less" width="24px" height="24px" src="./img/less.svg" style="padding-right:10px;" />](https://github.com/philmetscher/)
+[<img align="left" alt="Sass" width="24px" height="24px" src="./img/sass.svg" style="padding-right:10px;" />](https://github.com/philmetscher/)
+[<img align="left" alt="Figma" width="24px" height="24px" src="./img/figma.svg" style="padding-right:10px;" />](https://github.com/philmetscher/)
+[<img align="left" alt="Gitlab" width="24px" height="24px" src="./img/gitlab.svg" style="padding-right:10px;" />](https://github.com/philmetscher/)
 [<img align="left" alt="Github" width="24px" height="24px" src="./img/github_light.svg" style="padding-right:10px;" />](https://github.com/philmetscher/#gh-light-mode-only)
 [<img align="left" alt="Github" width="24px" height="24px" src="./img/github_dark.svg" style="padding-right:10px;" />](https://github.com/philmetscher/#gh-dark-mode-only)
-[<img align="left" alt="Bootstrap" width="24px" height="24px" src="./img/bootstrap.svg" style="padding-right:10px;" />]
+[<img align="left" alt="Bootstrap" width="24px" height="24px" src="./img/bootstrap.svg" style="padding-right:10px;" />](https://github.com/philmetscher/)
