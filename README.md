@@ -1,5 +1,5 @@
-[<h1><img src="https://readme-typing-svg.herokuapp.com?font=Arial&size=40&duration=3000&pause=1000&color=000000&width=500&height=80&lines=Hey,+I'm+Phil+Metscher+👋;Frontend+Developer+🤓" alt="Typing SVG" /></h1>](https://git.io/typing-svg#gh-light-mode-only)
-[<h1><img src="https://readme-typing-svg.herokuapp.com?font=Arial&size=40&duration=3000&pause=1000&color=FFFFFF&width=500&height=80&lines=Hey,+I'm+Phil+Metscher+👋;Frontend+Developer+🤓" alt="Typing SVG" /></h1>](https://git.io/typing-svg#gh-dark-mode-only)
+[<h1><img src="https://readme-typing-svg.herokuapp.com?font=Arial&size=40&duration=3000&pause=1000&color=000000&width=500&height=80&lines=Hey,+I'm+Phil+Metscher+👋;Webdeveloper+🤓" alt="Typing SVG" /></h1>](https://git.io/typing-svg#gh-light-mode-only)
+[<h1><img src="https://readme-typing-svg.herokuapp.com?font=Arial&size=40&duration=3000&pause=1000&color=FFFFFF&width=500&height=80&lines=Hey,+I'm+Phil+Metscher+👋;Webdeveloper+🤓" alt="Typing SVG" /></h1>](https://git.io/typing-svg#gh-dark-mode-only)
 
 I'm Phil, 24 years young, and I live in Hamburg. I've been working at Brandpfeil since November 2022, where I develop and expand various software solutions with our developer team - with a focus on store systems, WordPress, Typo3 and Laravel applications.
 
